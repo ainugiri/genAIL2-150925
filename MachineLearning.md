@@ -34,3 +34,14 @@ classification : identify the group. w.r.t input data
     size of flower sepal, petal -> typeA , TypeB, TypeC
 
     
+classification algorithms:
+    a. logistic regression (if your tries to create a logistic model - curve)
+    b. decision tree classification (if your tries to create a tree based model - multiple branches)
+    c. random forest classification (if your tries to create multiple tree based model - multiple branches)
+    d. support vector classification (if your tries to create a hyperplane based model - multiple dimensions)
+    e. k-nearest neighbor (if your tries to classify based on nearest neighbor)
+    f. naive bayes (if your tries to classify based on probability)
+
+    based on learning, identify the group
+
+    
