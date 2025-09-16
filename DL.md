@@ -54,3 +54,51 @@ error is 30
 BACKWARD PROPAGE 
     FINE TUNE THE WEIGHTS, SO THAT 
 
+
+
+
+Generative AI
+Model - able to generate new content
+GPT - Generative Pre-trained Transformer
+Natural language as input to the model
+model generate text, image, code, video (natural language as input)
+
+
+NLP : Natural Language Processing
+understand human language
+extract meaning from text
+extract sentiment from text
+send information to the model
+generate code
+
+
+NLU - Natural Language Understanding
+NLG - Natural Language Generation
+
+NLU :
+Understand human language
+Process to extract the intent and context of the text
+
+Alexa, Siri, Google Assistant, Voice Assistant
+
+Device has ability to understand human language
+
+Hey siri, what's the weather today?
+Hey Siri, set alarm for 7 AM tomorrow
+Hey Alexa, play backstreet boys album
+
+
+NLU: 
+   Extract intent and context
+   Hey siri, set alarm for 7 AM tomorrow
+
+   Intent : set alarm
+   context : 7 AM tomorrow
+
+   NLU captures the intent and context
+   send to the model
+
+
+1. Text Preprocessing 
+    1. Tokenization
+    
